@@ -3,7 +3,7 @@
 double tempF;
 double tempC;
 
-Console.WriteLine("---Conversor de °F para °C\n");
+Console.WriteLine("---Conversor de °C para °F\n");
 
 Console.Write("Digite a temperatura em °C: ");
 tempC = Convert.ToDouble(Console.ReadLine()!);
